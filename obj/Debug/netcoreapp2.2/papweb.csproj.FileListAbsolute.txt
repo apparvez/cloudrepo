@@ -1,0 +1,14 @@
+C:\papweb\bin\Debug\netcoreapp2.2\papweb.deps.json
+C:\papweb\bin\Debug\netcoreapp2.2\papweb.runtimeconfig.json
+C:\papweb\bin\Debug\netcoreapp2.2\papweb.runtimeconfig.dev.json
+C:\papweb\bin\Debug\netcoreapp2.2\papweb.dll
+C:\papweb\bin\Debug\netcoreapp2.2\papweb.pdb
+C:\papweb\obj\Debug\netcoreapp2.2\papweb.csprojAssemblyReference.cache
+C:\papweb\obj\Debug\netcoreapp2.2\papweb.csproj.CoreCompileInputs.cache
+C:\papweb\obj\Debug\netcoreapp2.2\papweb.RazorAssemblyInfo.cache
+C:\papweb\obj\Debug\netcoreapp2.2\papweb.RazorAssemblyInfo.cs
+C:\papweb\obj\Debug\netcoreapp2.2\papweb.AssemblyInfoInputs.cache
+C:\papweb\obj\Debug\netcoreapp2.2\papweb.AssemblyInfo.cs
+C:\papweb\obj\Debug\netcoreapp2.2\papweb.RazorTargetAssemblyInfo.cache
+C:\papweb\obj\Debug\netcoreapp2.2\papweb.dll
+C:\papweb\obj\Debug\netcoreapp2.2\papweb.pdb
